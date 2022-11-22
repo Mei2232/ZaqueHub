@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Mei2232/DuaHauHub1/main/source"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Mei2232/7153ee13cbe09de0a64d7f1b21a13b11/raw/54620a3eda52ca7874ed36d60faed259d4a529f9/gistfile1.txt"))()
